@@ -1,6 +1,6 @@
 [
 {
-"alumno": "Mauricio",
+"alumno": "Kevin",
 "nota": 9.09,
 "ranking": 10
 },
@@ -35,7 +35,7 @@
 "ranking": 210
 },
 {
-"alumno": "Edison",
+"alumno": "Ludim",
 "nota": 2.1,
 "ranking": 305
 },
