@@ -1,11 +1,47 @@
 [
-  { alumno: "Pedro", nota: 3, ranking: 500 },
-  { alumno: "Juan", nota: 4, ranking: 450 },
-  { alumno: "Kevin", nota: 5, ranking: 325 },
-  { alumno: "Fernando", nota: 6, ranking: 200 },
-  { alumno: "Luis", nota: 7, ranking: 180 },
-  { alumno: "Jose", nota: 8, ranking: 150 },
-  { alumno: "Alex", nota: 9, ranking: 80 },
-  { alumno: "Ludim", nota: 9.5, ranking: 50 },
-  { alumno: "Patricio", nota: 10, ranking: 0 },
-];
+{
+"alumno": "Mauricio",
+"nota": 9.09,
+"ranking": 10
+},
+{
+"alumno": "Juan",
+"nota": 4,
+"ranking": 220
+},
+{
+"alumno": "Katy",
+"nota": 8.02,
+"ranking": 60
+},
+{
+"alumno": "Danilo",
+"nota": 7.5,
+"ranking": 90
+},
+{
+"alumno": "Pedro",
+"nota": 6.4,
+"ranking": 120
+},
+{
+"alumno": ">Tatiana",
+"nota": 5.9,
+"ranking": 150
+},
+{
+"alumno": "Alberto",
+"nota": 4.2,
+"ranking": 210
+},
+{
+"alumno": "Edison",
+"nota": 2.1,
+"ranking": 305
+},
+{
+"alumno": "Emilia",
+"nota": 1.7,
+"ranking": 0
+}
+]
