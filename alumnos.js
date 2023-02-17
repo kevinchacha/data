@@ -1,6 +1,6 @@
 [
-  { "alumno": "Lopez Romina", "nota": 9.09, "ranking": 140 },
-  { "alumno": "Keyla Mora", "nota": 10, "ranking": 150 },
+  { "alumno": "Kevin Chacha", "nota": 9.09, "ranking": 140 },
+  { "alumno": "Romina Lopez", "nota": 10, "ranking": 150 },
   { "alumno": "Pamela Jaramillo", "nota": 8.9, "ranking": 130 },
   { "alumno": "Andrea Cisneros", "nota": 7, "ranking": 100 },
   { "alumno": "Juan Camayo", "nota": 6.5, "ranking": 90 },
