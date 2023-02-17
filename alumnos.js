@@ -1,47 +1,11 @@
 [
-{
-"alumno": "Kevin CH",
-"nota": 9.09,
-"ranking": 10
-},
-{
-"alumno": "Juan",
-"nota": 4,
-"ranking": 220
-},
-{
-"alumno": "Katy",
-"nota": 8.02,
-"ranking": 60
-},
-{
-"alumno": "Danilo",
-"nota": 7.5,
-"ranking": 90
-},
-{
-"alumno": "Pedro",
-"nota": 6.4,
-"ranking": 120
-},
-{
-"alumno": ">Tatiana",
-"nota": 5.9,
-"ranking": 150
-},
-{
-"alumno": "Alberto",
-"nota": 4.2,
-"ranking": 210
-},
-{
-"alumno": "LudimFly",
-"nota": 2.1,
-"ranking": 305
-},
-{
-"alumno": "Emilia",
-"nota": 1.7,
-"ranking": 0
-}
+  { "alumno": "Lopez Romina", "nota": 9.09, "ranking": 140 },
+  { "alumno": "Keyla Mora", "nota": 10, "ranking": 150 },
+  { "alumno": "Pamela Jaramillo", "nota": 8.9, "ranking": 130 },
+  { "alumno": "Andrea Cisneros", "nota": 7, "ranking": 100 },
+  { "alumno": "Juan Camayo", "nota": 6.5, "ranking": 90 },
+  { "alumno": "Andres Alvarez", "nota": 2, "ranking": 20 },
+  { "alumno": "Jose Quinga", "nota": 4, "ranking": 40 },
+  { "alumno": "Elizabeth Ruiz", "nota": 8, "ranking": 115 },
+  { "alumno": "Julio Andrade", "nota": 5.7, "ranking": 60 }
 ]
